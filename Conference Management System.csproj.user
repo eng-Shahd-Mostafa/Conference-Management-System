@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AttendeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConferenceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConferenceReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateConference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteConference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaperForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ParticipantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchAttendee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchConference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchConferenceReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchPaper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchParticipant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SessionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateConference.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateSession.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
